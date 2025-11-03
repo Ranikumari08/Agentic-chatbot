@@ -21,6 +21,9 @@ pip install -r requirements.txt
 Environment Setup (Tavily, Groq API_KEY setup)
 streamlit run app.py
 
+🧾 License
+
+This project is released under the MIT License – free to use and modify with attribution.
 
 👩‍💻 Author
 
